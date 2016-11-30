@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c5cde7a-27cc-4e8c-a3b2-93318f04ec85" name="Default" comment="" />
+    <ignored path="MyBlog.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="MyBlog" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="left-nav.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/left-nav.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="775">
+              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+              <folding>
+                <marker date="1479498736190" expanded="true" signature="104:156" ph="..." />
+                <marker date="1479498736190" expanded="true" signature="104:587" ph="..." />
+                <marker date="1479498736190" expanded="true" signature="104:588" ph="..." />
+                <marker date="1479498736190" expanded="true" signature="104:589" ph="..." />
+                <marker date="1479498736190" expanded="true" signature="104:732" ph="..." />
+                <marker date="1479498736190" expanded="true" signature="203:449" ph="..." />
+                <marker date="1479498736190" expanded="true" signature="231:441" ph="..." />
+                <marker date="1479498736190" expanded="true" signature="308:319" ph="..." />
+                <marker date="1479498736190" expanded="true" signature="308:358" ph="..." />
+                <marker date="1479498736190" expanded="true" signature="308:359" ph="..." />
+                <marker date="1479498736190" expanded="true" signature="308:433" ph="..." />
+                <marker date="1479498736190" expanded="true" signature="445:449" ph="..." />
+                <marker date="1479498736190" expanded="true" signature="790:929" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="register.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/register.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-650">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding>
+                <marker date="1479496309572" expanded="true" signature="1216:1263" ph="..." />
+                <marker date="1479496309572" expanded="true" signature="1240:1263" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="875">
+              <caret line="72" column="30" selection-start-line="72" selection-start-column="30" selection-end-line="72" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="db-settings.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db-settings.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="viewblog.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/viewblog.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1850">
+              <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/style/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="650">
+              <caret line="302" column="16" selection-start-line="302" selection-start-column="16" selection-end-line="302" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../MyBlogWithCSS/style/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4850">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-171">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding>
+                <marker date="1479772785399" expanded="true" signature="833:880" ph="..." />
+                <marker date="1479772785399" expanded="true" signature="857:880" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/replaceQuotes.php" />
+        <option value="$PROJECT_DIR$/admin_users.php" />
+        <option value="$PROJECT_DIR$/display.php" />
+        <option value="$PROJECT_DIR$/logout.php" />
+        <option value="$PROJECT_DIR$/style/default.css" />
+        <option value="$PROJECT_DIR$/myaccout.php" />
+        <option value="$PROJECT_DIR$/topnav.php" />
+        <option value="$PROJECT_DIR$/homepage.php" />
+        <option value="$PROJECT_DIR$/harshada.html" />
+        <option value="$PROJECT_DIR$/createblog.php" />
+        <option value="$PROJECT_DIR$/class.user.php" />
+        <option value="$PROJECT_DIR$/processManage.php" />
+        <option value="$PROJECT_DIR$/processRevoke.php" />
+        <option value="$PROJECT_DIR$/processPublish.php" />
+        <option value="$PROJECT_DIR$/config.php" />
+        <option value="$PROJECT_DIR$/viewAllBlogs.php" />
+        <option value="$PROJECT_DIR$/viewmyblogs.php" />
+        <option value="$PROJECT_DIR$/db-settings.php" />
+        <option value="$PROJECT_DIR$/register.php" />
+        <option value="$PROJECT_DIR$/publish.php" />
+        <option value="$PROJECT_DIR$/js/back.js" />
+        <option value="$PROJECT_DIR$/left-nav.php" />
+        <option value="$PROJECT_DIR$/viewblog.php" />
+        <option value="$PROJECT_DIR$/myaccount.php" />
+        <option value="$PROJECT_DIR$/manageUser.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/functions.php" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/style/style.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="MyBlogWithCSS">
+    <include_path>
+      <path value="C:\xampp\htdocs\MyBlogWithCSS" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-10" />
+    <option name="width" value="2574" />
+    <option name="height" value="1390" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code SmellPHP</id>
+          </State>
+          <State>
+            <id>Code StylePHP</id>
+          </State>
+          <State>
+            <id>Code style issuesCSS</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>Probable bugsCSS</id>
+          </State>
+          <State>
+            <id>Probable bugsPHP</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Code StylePHP</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.jetbrains.php.config.PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP" />
+              <option name="myItemType" value="com.jetbrains.php.config.PhpExternalLibrariesNodePatcher$PatchedLibraryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyBlogWithCSSRASIKA" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyBlogWithCSSRASIKA" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="style" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="reference.webide.settings.project.settings.php" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\MyBlogWithCSS\style\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/style" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHPUnit.MyBlogWithCSS">
+    <configuration default="false" name="viewmyblogs.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/MyBlog/viewmyblogs.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="MyBlogWithCSS" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.viewmyblogs.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHPUnit.MyBlogWithCSS" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="PHPUnit.MyBlogWithCSS" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.viewmyblogs.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c5cde7a-27cc-4e8c-a3b2-93318f04ec85" name="Default" comment="" />
+      <created>1447013913692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1447013913692</updated>
+      <workItem from="1478903837794" duration="10600000" />
+      <workItem from="1479249982983" duration="2857000" />
+      <workItem from="1479309114602" duration="26284000" />
+      <workItem from="1479396761190" duration="24334000" />
+      <workItem from="1479495435326" duration="6052000" />
+      <workItem from="1479575267210" duration="1820000" />
+      <workItem from="1479762819940" duration="8148000" />
+      <workItem from="1479930190418" duration="194000" />
+      <workItem from="1480455702731" duration="4374000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="84663000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-10" y="0" width="2574" height="1390" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21669279" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19670847" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924837" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="27" />
+          <folding>
+            <marker date="1479772785399" expanded="true" signature="833:880" ph="..." />
+            <marker date="1479772785399" expanded="true" signature="857:880" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="416" column="0" selection-start-line="416" selection-start-column="0" selection-end-line="420" selection-end-column="1" />
+          <folding>
+            <marker date="1479772997593" expanded="true" signature="1294:1541" ph="INSERT INTO ${$db_table_prefix}UserDetails... " />
+            <marker date="1479772997593" expanded="true" signature="1897:2067" ph="SELECT UserI... ${$db_table_prefix}" />
+            <marker date="1479772997593" expanded="true" signature="2696:2833" ph="SELECT UserI... ${$db_table_prefix}" />
+            <marker date="1479772997593" expanded="true" signature="3377:3535" ph="SELECT UserI... ${$db_table_prefix}" />
+            <marker date="1479772997593" expanded="true" signature="3951:4113" ph="SELECT UserI... ${$db_table_prefix}" />
+            <marker date="1479772997593" expanded="true" signature="4677:4814" ph="SELECT UserI... ${$db_table_prefix}" />
+            <marker date="1479772997593" expanded="true" signature="5476:6066" ph="SELECT blogl... whomadewho" />
+            <marker date="1479772997593" expanded="true" signature="5476:6074" ph="SELECT blogl... whomadewho" />
+            <marker date="1479772997593" expanded="true" signature="5476:6091" ph="SELECT blogl... whomadewho" />
+            <marker date="1479772997593" expanded="true" signature="5476:6092" ph="SELECT blogl... whomadewho" />
+            <marker date="1479772997593" expanded="true" signature="6914:7369" ph="SELECT blogl... whomadewho" />
+            <marker date="1479772997593" expanded="true" signature="8079:8627" ph="SELECT blogl... whomadewho" />
+            <marker date="1479772997593" expanded="true" signature="9699:9839" ph="INSERT INTO bloglisting... " />
+            <marker date="1479772997593" expanded="true" signature="9999:10076" ph="INSERT INTO blogcontent... " />
+            <marker date="1479772997593" expanded="true" signature="10237:10320" ph="INSERT INTO whomadewho... " />
+            <marker date="1479772997593" expanded="true" signature="10836:11040" ph="SELECT UserI... ${$db_table_prefix}" />
+            <marker date="1479772997593" expanded="true" signature="10836:11042" ph="SELECT UserI... ${$db_table_prefix}" />
+            <marker date="1479772997593" expanded="true" signature="10836:11053" ph="SELECT UserI... ${$db_table_prefix}" />
+            <marker date="1479772997593" expanded="true" signature="10836:11054" ph="SELECT UserI... ${$db_table_prefix}" />
+            <marker date="1479772997593" expanded="true" signature="11723:11898" ph="SELECT UserI... ${$db_table_prefix}" />
+            <marker date="1479772997593" expanded="true" signature="14493:14710" ph="SELECT blogl... bloglisting" />
+            <marker date="1479772997593" expanded="true" signature="14493:14717" ph="SELECT blogl... bloglisting" />
+            <marker date="1479772997593" expanded="true" signature="14493:14734" ph="SELECT blogl... bloglisting" />
+            <marker date="1479772997593" expanded="true" signature="16431:16440" ph="SELECT UserI... ${$db_table_prefix}" />
+            <marker date="1479772997593" expanded="true" signature="16431:16608" ph="SELECT blogl... bloglisting" />
+            <marker date="1479772997593" expanded="true" signature="16956:17546" ph="SELECT blogl... whomadewho" />
+            <marker date="1479772997593" expanded="true" signature="18065:18712" ph="SELECT blogl... whomadewho" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/f1a18dd0/6190f1e5-5272-4308-a152-a82f945b1a74/UserManager.bloglisting" />
+    <entry file="dbDummy://dbtable:/f1a18dd0/6190f1e5-5272-4308-a152-a82f945b1a74/UserManager.blogcontent" />
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/createblog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1478910427163" expanded="true" signature="730:777" ph="..." />
+            <marker date="1478910427163" expanded="true" signature="754:777" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/display.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/viewblog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/f1a18dd0/6190f1e5-5272-4308-a152-a82f945b1a74/UserManager.UserDetails" />
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1479772785399" expanded="true" signature="833:880" ph="..." />
+            <marker date="1479772785399" expanded="true" signature="857:880" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myaccount.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1479772785399" expanded="true" signature="833:880" ph="..." />
+            <marker date="1479772785399" expanded="true" signature="857:880" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myaccount.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1479772785399" expanded="true" signature="833:880" ph="..." />
+            <marker date="1479772785399" expanded="true" signature="857:880" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myaccount.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/6190f1e5-5272-4308-a152-a82f945b1a74/console.sql" />
+    <entry file="file://$PROJECT_DIR$/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/f1a18dd0/6190f1e5-5272-4308-a152-a82f945b1a74/UserManager.whomadewho" />
+    <entry file="dbDummy://dbtable:/f1a18dd0/6190f1e5-5272-4308-a152-a82f945b1a74/UserManager.UserDetails" />
+    <entry file="dbDummy://dbtable:/f1a18dd0/6190f1e5-5272-4308-a152-a82f945b1a74/UserManager.bloglisting" />
+    <entry file="dbDummy://dbtable:/f1a18dd0/6190f1e5-5272-4308-a152-a82f945b1a74/UserManager.blogcontent" />
+    <entry file="file://$PROJECT_DIR$/harshada.html" />
+    <entry file="file://$PROJECT_DIR$/../FirstCRUD/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="193" column="0" selection-start-line="176" selection-start-column="0" selection-end-line="193" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/standardSchemas/xhtml1-strict.dtd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5345">
+          <caret line="279" column="10" selection-start-line="279" selection-start-column="10" selection-end-line="279" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processManage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processRevoke.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="42" selection-start-line="7" selection-start-column="0" selection-end-line="21" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processPublish.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="e#6#90#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/viewAllBlogs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding>
+            <marker date="1479438326650" expanded="true" signature="259:482" ph="..." />
+            <marker date="1479438326650" expanded="true" signature="281:482" ph="..." />
+            <marker date="1479438326650" expanded="true" signature="301:482" ph="..." />
+            <marker date="1479438326650" expanded="true" signature="317:482" ph="..." />
+            <marker date="1479438326650" expanded="true" signature="330:482" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/viewmyblogs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <marker date="1479438463705" expanded="true" signature="127:375" ph="..." />
+            <marker date="1479438463705" expanded="true" signature="149:375" ph="..." />
+            <marker date="1479438463705" expanded="true" signature="169:375" ph="..." />
+            <marker date="1479438463705" expanded="true" signature="203:375" ph="..." />
+            <marker date="1479438463705" expanded="true" signature="216:375" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publish.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="42" column="28" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
+          <folding>
+            <marker date="1479497465477" expanded="true" signature="389:431" ph="..." />
+            <marker date="1479497465477" expanded="true" signature="411:431" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/back.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class.user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/createblog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <marker date="1478910427163" expanded="true" signature="730:777" ph="..." />
+            <marker date="1478910427163" expanded="true" signature="754:777" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/display.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myaccount.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+          <folding>
+            <marker date="1479501934721" expanded="true" signature="474:697" ph="..." />
+            <marker date="1479501934721" expanded="true" signature="495:697" ph="..." />
+            <marker date="1479501934721" expanded="true" signature="515:696" ph="..." />
+            <marker date="1479501934721" expanded="true" signature="515:697" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manageUser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding>
+            <marker date="1479501934710" expanded="true" signature="468:488" ph="..." />
+            <marker date="1479501934710" expanded="true" signature="487:488" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogTitleSearch.php" />
+    <entry file="file://$PROJECT_DIR$/../ImageUpload/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2800">
+          <caret line="115" column="30" selection-start-line="115" selection-start-column="30" selection-end-line="115" selection-end-column="30" />
+          <folding>
+            <marker date="1479772997593" expanded="true" signature="1294:1541" ph="INSERT INTO ${$db_table_prefix}UserDetails... " />
+            <marker date="1479772997593" expanded="true" signature="1897:2067" ph="SELECT UserI... ${$db_table_prefix}" />
+            <marker date="1479772997593" expanded="true" signature="2696:2833" ph="SELECT UserI... ${$db_table_prefix}" />
+            <marker date="1479772997593" expanded="true" signature="3377:3535" ph="SELECT UserI... ${$db_table_prefix}" />
+            <marker date="1479772997593" expanded="true" signature="3951:4113" ph="SELECT UserI... ${$db_table_prefix}" />
+            <marker date="1479772997593" expanded="true" signature="4677:4814" ph="SELECT UserI... ${$db_table_prefix}" />
+            <marker date="1479772997593" expanded="true" signature="5476:6066" ph="SELECT blogl... whomadewho" />
+            <marker date="1479772997593" expanded="true" signature="5476:6074" ph="SELECT blogl... whomadewho" />
+            <marker date="1479772997593" expanded="true" signature="5476:6091" ph="SELECT blogl... whomadewho" />
+            <marker date="1479772997593" expanded="true" signature="5476:6092" ph="SELECT blogl... whomadewho" />
+            <marker date="1479772997593" expanded="true" signature="6914:7369" ph="SELECT blogl... whomadewho" />
+            <marker date="1479772997593" expanded="true" signature="8079:8627" ph="SELECT blogl... whomadewho" />
+            <marker date="1479772997593" expanded="true" signature="9699:9839" ph="INSERT INTO bloglisting... " />
+            <marker date="1479772997593" expanded="true" signature="9999:10076" ph="INSERT INTO blogcontent... " />
+            <marker date="1479772997593" expanded="true" signature="10237:10320" ph="INSERT INTO whomadewho... " />
+            <marker date="1479772997593" expanded="true" signature="10836:11040" ph="SELECT UserI... ${$db_table_prefix}" />
+            <marker date="1479772997593" expanded="true" signature="10836:11042" ph="SELECT UserI... ${$db_table_prefix}" />
+            <marker date="1479772997593" expanded="true" signature="10836:11053" ph="SELECT UserI... ${$db_table_prefix}" />
+            <marker date="1479772997593" expanded="true" signature="10836:11054" ph="SELECT UserI... ${$db_table_prefix}" />
+            <marker date="1479772997593" expanded="true" signature="11723:11898" ph="SELECT UserI... ${$db_table_prefix}" />
+            <marker date="1479772997593" expanded="true" signature="14493:14710" ph="SELECT blogl... bloglisting" />
+            <marker date="1479772997593" expanded="true" signature="14493:14717" ph="SELECT blogl... bloglisting" />
+            <marker date="1479772997593" expanded="true" signature="14493:14734" ph="SELECT blogl... bloglisting" />
+            <marker date="1479772997593" expanded="true" signature="16431:16440" ph="SELECT UserI... ${$db_table_prefix}" />
+            <marker date="1479772997593" expanded="true" signature="16431:16608" ph="SELECT blogl... bloglisting" />
+            <marker date="1479772997593" expanded="true" signature="16956:17546" ph="SELECT blogl... whomadewho" />
+            <marker date="1479772997593" expanded="true" signature="18065:18712" ph="SELECT blogl... whomadewho" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <marker date="1479772785399" expanded="true" signature="833:880" ph="..." />
+            <marker date="1479772785399" expanded="true" signature="857:880" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/left-nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+          <folding>
+            <marker date="1479498736190" expanded="true" signature="104:156" ph="..." />
+            <marker date="1479498736190" expanded="true" signature="104:587" ph="..." />
+            <marker date="1479498736190" expanded="true" signature="104:588" ph="..." />
+            <marker date="1479498736190" expanded="true" signature="104:589" ph="..." />
+            <marker date="1479498736190" expanded="true" signature="104:732" ph="..." />
+            <marker date="1479498736190" expanded="true" signature="203:449" ph="..." />
+            <marker date="1479498736190" expanded="true" signature="231:441" ph="..." />
+            <marker date="1479498736190" expanded="true" signature="308:319" ph="..." />
+            <marker date="1479498736190" expanded="true" signature="308:358" ph="..." />
+            <marker date="1479498736190" expanded="true" signature="308:359" ph="..." />
+            <marker date="1479498736190" expanded="true" signature="308:433" ph="..." />
+            <marker date="1479498736190" expanded="true" signature="445:449" ph="..." />
+            <marker date="1479498736190" expanded="true" signature="790:929" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-650">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <marker date="1479496309572" expanded="true" signature="1216:1263" ph="..." />
+            <marker date="1479496309572" expanded="true" signature="1240:1263" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="72" column="30" selection-start-line="72" selection-start-column="30" selection-end-line="72" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db-settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/viewblog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1850">
+          <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyBlogWithCSS/style/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4850">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="302" column="16" selection-start-line="302" selection-start-column="16" selection-end-line="302" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
